@@ -1,4 +1,4 @@
-## Hi there welocme to my profile👋
+## Hi there I'm Shubham Singh👋
 
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
 <!--
